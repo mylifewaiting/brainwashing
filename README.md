@@ -9,6 +9,3 @@ Brain washing mind map markdown
 
 <img src="https://upload.cc/i1/2020/08/15/7I3pYw.png" alt="brainwash" style="zoom:100%;" />
 
-
-
-<img src="https://github.com/mylifewaiting/brainwashing/raw/master/brainwash.svg" alt="brainwash" style="zoom:100%;" />
