@@ -1,2 +1,8 @@
 # brainwashing
 Brain washing mind map markdown
+起源于一张反驳洗脑言论的思维导图，朋友把初始文字打了出来，后面反洗脑部分是
+我新加的
+
+通过该在线
+(markmap)[https://markmap.js.org/repl/]
+实现把Markdown转图
