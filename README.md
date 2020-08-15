@@ -4,5 +4,5 @@ Brain washing mind map markdown
 我新加的
 
 通过该在线
-(markmap)[https://markmap.js.org/repl/]
+[markmap](https://markmap.js.org/repl/)
 实现把Markdown转图
