@@ -6,3 +6,4 @@ Brain washing mind map markdown
 通过该在线
 [markmap](https://markmap.js.org/repl/)
 实现把Markdown转图
+<img src="https://github.com/mylifewaiting/brainwashing/raw/master/brainwash.svg" alt="brainwash" style="zoom:100%;" />
